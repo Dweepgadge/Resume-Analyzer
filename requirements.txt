@@ -1,0 +1,9 @@
+flask>=2.3.0
+werkzeug>=2.3.0
+
+# Optional — for PDF and DOCX parsing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+
+# Optional — for better NLP tokenization
+nltk>=3.8.0
